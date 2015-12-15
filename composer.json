@@ -1,12 +1,12 @@
 {
-  "name": "dektrium/yii2-rbac",
+  "name": "gihanshp/yii2-rbac",
   "description": "RBAC management module for Yii2",
-  "keywords": ["yii2", "yii2-rbac", "rbac management", "dektrium", "rbac gui", "yii rbac", "rbac module"],
+  "keywords": ["yii2", "yii2-rbac", "rbac management", "gihanshp", "rbac gui", "yii rbac", "rbac module"],
   "type": "yii2-extension",
   "license": "MIT",
   "support": {
-    "issues": "https://github.com/dektrium/yii2-rbac/issues?state=open",
-    "source": "https://github.com/dektrium/yii2-rbac"
+    "issues": "https://github.com/gihanshp/yii2-rbac/issues?state=open",
+    "source": "https://github.com/gihanshp/yii2-rbac"
   },
   "authors": [
     {
@@ -22,7 +22,7 @@
   },
   "autoload": {
     "psr-4": {
-      "dektrium\\rbac\\": ""
+      "gihanshp\\rbac\\": ""
     }
   },
   "extra": {
