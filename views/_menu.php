@@ -50,6 +50,10 @@ use yii\bootstrap\Nav;
                 [
                     'label' => Yii::t('rbac', 'New permission'),
                     'url'   => ['/rbac/permission/create']
+                ],
+                [
+                    'label' => Yii::t('rbac', 'Scan permission'),
+                    'url'   => ['/rbac/permission/scan']
                 ]
             ]
         ]

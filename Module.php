@@ -29,6 +29,8 @@ class Module extends BaseModule
     /** @var array */
     public $admins = [];
     
+    public $namespacesToScan = [];
+    
     /** @inheritdoc */
     public function behaviors()
     {
